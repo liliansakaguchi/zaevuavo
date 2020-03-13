@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jootasaexe.raidelgimenez.com.ve/sitemap.xml
